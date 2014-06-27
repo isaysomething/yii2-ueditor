@@ -1,6 +1,6 @@
 <?php
 
-namespace yrs\ueditor;
+namespace yrssoft\ueditor;
 
 use yii\web\View;
 
