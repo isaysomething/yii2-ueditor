@@ -1,6 +1,6 @@
 <?php
 
-namespace yrs\ueditor;
+namespace yrssoft\ueditor;
 
 use Yii;
 use yii\web\AssetBundle;
