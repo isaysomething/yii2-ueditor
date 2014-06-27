@@ -1,0 +1,18 @@
+{
+    "name": "yrssoft/yii2-ueditor",
+    "description": "ueditor extention for yii 2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","ueditor"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "杨瑞生",
+            "email": "yrsemail@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "yrssoft\\ueditor\\": ""
+        }
+    }
+}
